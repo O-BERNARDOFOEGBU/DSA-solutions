@@ -16,7 +16,7 @@ Feel free to explore the solutions, review the code, and even suggest improvemen
 
 ## Contributing
 
-If you'd like to contribute or have any suggestions, feel free to open an issue or submit a pull request. Collaboration is always appreciated.
+If you'd like to contribute or have any suggestions, feel free to open an issue or submit a pull request. Collaboration is always appreciated. Dont forget to drop a star.
 
 ## License
 
