@@ -1,10 +1,10 @@
 # DSA Solutions Repository
 
-Welcome to my repository of Data Structure and Algorithm (DSA) solutions! Here, you'll find my personal solutions to various DSA problems as listed on [Algomap.io](https://algomap.io), a free Data Structure and Algorithm Roadmap.
+Welcome to my repository of Data Structure and Algorithm (DSA) solutions! Here, you'll find solutions to various DSA problems as listed on [Algomap.io](https://algomap.io), a free Data Structure and Algorithm Roadmap.
 
 ## Purpose
 
-This repository serves as a collection of my coding solutions, showcasing my progress and understanding of various DSA concepts. Each solution is implemented in a clean and efficient manner, following best practices in coding.
+This repository serves as a collection of coding solutions, hoping to aid contributors in showcasing progress and understanding of various DSA concepts. Each solution is accepted if implemented in a clean and efficient manner, following best practices in coding.
 
 ## Structure
 
